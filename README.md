@@ -1,2 +1,2 @@
 # algorithm_analysis
-Simple algorithms and stuff for educational purposes
+Random algorithms that I find the need to reference to once in a while
