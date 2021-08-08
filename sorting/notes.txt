@@ -1,0 +1,13 @@
+Sorting
+So remember this, only a few items and mostly sorted data… you should use insertion sort.
+
+If you’re worried about worse case scenarios, then merge sort is the way to go.
+However, if you want to sort in memory on your machine and you’re worried about space complexity, merge sort is going to be really expensive.
+
+With quick sort, you want to use this when your average case performance matters more than your worst case performance.
+
+Make templates for c++
+https://www.geeksforgeeks.org/counting-sort/ 
+https://www.geeksforgeeks.org/insertion-sort/ 
+https://www.geeksforgeeks.org/merge-sort/ 
+
